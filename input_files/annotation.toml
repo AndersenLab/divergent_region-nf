@@ -1,0 +1,5 @@
+[[annotation]]
+file="Mask.bed.gz"
+columns = [4]
+names=["Divergent_Mask"]
+ops=["self"]
